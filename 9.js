@@ -27,7 +27,7 @@ function handler (response,index)
 			handler(r,index+1)
 		    })
 		}
-    })
+	})
 }
 
 http.get(process.argv[2],function (r) { 
