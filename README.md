@@ -1,7 +1,7 @@
 Node-School
 ===========
 
-Lessons from Node School workshop: learnyounode.
+Lessons from the first Node School workshop: learnyounode.
 
 http://thefragmentationparadox.blogspot.pt/2014/09/node-school-event.html
  
